@@ -13,7 +13,7 @@ from werkzeug.utils import secure_filename
 
 app = Flask(__name__,template_folder="templates") # initializing a flask app
 # Loading the model
-model=load_model('D:\Python\gesture based control of raidiology images\Flask\Tested_gesture.h5')
+model=load_model('D:\GestureBasedTool\Flask\gesture.h5')
 print("Loaded model from disk")
 
 
