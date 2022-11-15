@@ -8,7 +8,11 @@ Here, We train a CNN based model to recognize the hand gesture. The training dat
 We use Python Flask to provide an interactive platform for out model.
 
 TEAM LEAD- RAGUL BALAJI S
+
 TEAM MEMBER 1- SHAMYUKTHA K
+
 TEAM MEMBER 2- SNEHA T
+
 TEAM MEMBER 3- SUJAN KARTHI N
+
 TEAM MEMBER 4- YOGHESH S
